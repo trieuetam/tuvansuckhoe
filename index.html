@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tư vấn sức khỏe COVID-19 💕</title>
+  <link rel="shortcut icon" type="image/png" href="./assets/img/health.png"/>
+  <link rel="stylesheet" href="./assets/css/bootstrap-grid.css">
+  <link rel="stylesheet" href="./assets/css/style.css">
+  <link rel="stylesheet" href="./assets/css/responsive.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta2/css/all.min.css" />
+</head>
+<body>
+    <div class="dark"></div>
+
+<!-- header section starts  -->
+    <header>
+
+    <div class="nav-form">
+
+        <a href="" class="logo"><span style="color: #0FB0DF;">H</span>ealth<span style="color: #0FB0DF;">C</span>ovid.</a>
+
+        <nav class="nav">
+            <ul>
+                <li><a href="#home">Trang Chủ</a></li>
+                <li><a href="https://moh.gov.vn/" target="_blank">Thông tin thêm</a></li>
+                <li><a href="#about">Giới Thiệu</a></li>
+            </ul>
+        </nav>
+
+        <div class="fas fa-bars"></div>
+
+    </div>
+
+    </header>
+<!-- header section ends  -->
+
+    <div id="question" class="question">
+        <h1>?</h1>
+    </div>
+
+    <div class="messager-box">
+        <ul>
+            <li><h3>Gợi ý:</h3></li>
+            <li>COVID-19 là gì?</li>
+            <li>Cách để nhận biết COVID-19</li>
+            <li>Các triệu chứng khi dính phải COVID-19</li>
+            <li>Các biện pháp phòng chống COVID-19</li>
+            <li>Làm gì khi bản thân bị nhiễm COVID-19?</li>
+            <li>Thời gian ủ bệnh của COVID-19 là bao lâu?</li>
+            <li>Bệnh do COVID-19 kéo dài trong bao lâu?</li>
+            <li>Tỉ lệ tử vong/ca nhiễm COVID-19 là bao nhiêu?</li>
+            <li>Tỉ lệ mắc COVID-19 ở trẻ em là bao nhiêu?</li>
+            <li>Ai cần phải được xét nghiệm COVID-19?</li>
+            <li>Hotline</li>
+
+        </ul>
+    </div>
+
+    <div class="messageBox">
+        <div class="form">
+            <div class="chatLog">Health Covid 💕 <i id="close" class="fas fa-window-minimize"></i></div>
+            <div class="flexcol" id="created">
+                <div class="ai-mes">
+                        <div class="ai">Đặt câu hỏi cho bác sĩ</div>
+                </div>
+            </div>
+
+            <div class="input-form">
+                <div class="d-flex w-100">
+                    <ul class="list-support">
+                        <li id="items-sup1">Danh sách bệnh viện</li>
+                        <li id="items-sup2">COVID-19</li>
+                        <li id="items-sup3">Cách phòng tránh chung</li>
+                        <li id="items-sup4">Hotline</li>
+                    </ul>
+                    <i class="fa fa-bars input-form__bar"></i>
+                    <input id="userBox" class="form_data" type="text" name="usertext" onkeydown="if(event.keyCode == 13){talk()}" placeholder="Nhập vào đây để trò chuyện">
+                </div>
+                <button type="button" name="submit" id="submit">Gửi</button>
+            </div>
+            
+        </div>
+
+    </div>
+
+    <section id="home">
+        <div class="main-srcreen">
+            <div class="covid-piture">
+                <img src="./assets/img/main.png" alt="" >
+            </div>
+            <div class="contentText">
+                <h1>COVID-19</h1>
+                <p>Tư vấn sức khỏe tình hình dịch bệnh COVID-19.</p>
+            </div>
+        </div>
+    </section>
+
+    <div class="main">
+        <div id="messclick" class="messclick">
+            <h3 class="mess_title">Bấm vào đây để được tư vấn</h3>
+            <i class="fab fa-facebook-messenger"></i>
+        </div>
+
+        <div class="row">
+            <div class="col-lg-8">
+                <h3 class="info_news">Thông tin mới</h3>
+                
+                <div class="card">
+                    <img src="./assets/img/thongtin1.jpg" alt="">
+                    <div class="card-content">
+                        <p><a href="https://moh.gov.vn/hoat-dong-cua-lanh-dao-bo/-/asset_publisher/TW6LTp1ZtwaN/content/bo-truong-bo-y-te-thong-tin-tiem-chung-cua-nguoi-dan-rat-can-thiet-e-thich-ung-an-toan-linh-hoat-kiem-soat-hieu-qua-dich-covid-19-" target="_blank">Bộ trưởng Bộ Y tế: Thông tin tiêm chủng của người dân rất cần thiết để 'thích...</a></p>
+                        <br>
+                        <p class="card-content__text">Theo Bộ trưởng Bộ Y tế: Việc biết tình trạng tiêm chủng của mỗi người dân hết sức quan trọng.</p>
+                    </div>
+                </div>
+
+                <div class="card">
+                    <img src="./assets/img/thongtin2.jpg" alt="">
+                    <div class="card-content">
+                        <p><a href="https://moh.gov.vn/tin-lien-quan/-/asset_publisher/vjYyM7O9aWnX/content/chieu-16-10-a-co-hon-61-trieu-lieu-vaccine-covid-19-uoc-tiem-chung-tren-ca-nuoc?inheritRedirect=false&redirect=https%3A%2F%2Fmoh.gov.vn%3A443%2Ftin-lien-quan%3Fp_p_id%3D101_INSTANCE_vjYyM7O9aWnX%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Drow-4-column-1%26p_p_col_count%3D1" target="_blank">Chiều 16/10: Đã có hơn 61 triệu liều vaccine COVID-19 được tiêm chủng trên cả nước</a></p>
+                        <br>
+                        <p class="card-content__text">Thống kê trên cổng tiêm chủng Quốc gia cho biết đến 14h ngày 16/10, cả nước đã tiêm được 61,086,173 liều vaccine phòng COVID-19; Đồng Nai đã chữa khỏi hơn 44.700 bệnh nhân COVID-19; Bến Tre thêm 3 F0</p>
+                    </div>
+                </div>
+
+                <div class="card">
+                    <img src="./assets/img/thongtin3.jpg" alt="">
+                    <div class="card-content">
+                        <p><a href="https://moh.gov.vn/hoat-dong-cua-dia-phuong/-/asset_publisher/gHbla8vOQDuS/content/quang-binh-tiem-vaccine-phong-covid-19-cho-sinh-vien-lao?inheritRedirect=false&redirect=https%3A%2F%2Fmoh.gov.vn%3A443%2Fhoat-dong-cua-dia-phuong%3Fp_p_id%3D101_INSTANCE_gHbla8vOQDuS%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Drow-3-column-3%26p_p_col_pos%3D1%26p_p_col_count%3D2" target="_blank">Quảng Bình: Tiêm vaccine phòng COVID-19 cho sinh viên Lào</a></p>
+                        <br>
+                        <p class="card-content__text">Ngày 16/10, thông tin từ Trung tâm Kiểm soát bệnh tật (CDC) tỉnh Quảng Bình cho biết, đơn vị này vừa tổ chức tiêm vaccine cho nhiều sinh viên Lào đang học tập trên địa bàn.</p>
+                    </div>
+                </div>
+
+                <div class="card">
+                    <img src="./assets/img/thongtin4.jpg" alt="">
+                    <div class="card-content">
+                        <p><a href="https://moh.gov.vn/tin-lien-quan/-/asset_publisher/vjYyM7O9aWnX/content/sang-16-10-chi-con-hon-3-800-ca-covid-19-nang-italy-trao-tang-viet-nam-them-hon-2-trieu-lieu-vaccine-astrazeneca?inheritRedirect=false&redirect=https%3A%2F%2Fmoh.gov.vn%3A443%2Ftin-lien-quan%3Fp_p_id%3D101_INSTANCE_vjYyM7O9aWnX%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Drow-4-column-1%26p_p_col_count%3D1" target="_blank">Sáng 16/10: Chỉ còn hơn 3.800 ca COVID-19 nặng; Italy trao tặng Việt Nam thêm hơn 2 triệu liều vaccine AstraZeneca</a></p>
+                        <br>
+                        <p class="card-content__text">Đến nay Việt Nam có 857.639 ca mắc COVID-19, đã chữa khỏi 788.923 ca. Trong số các bệnh nhân đang điều trị hiện chỉ còn hơn 3.800 ca nặng</p>
+                    </div>
+                </div>
+
+            </div>
+            <div class="col-lg-4">
+                <div class="title-mes">
+                    <h3 class="title-mes__info">Tin nổi bật</h3>
+                    <ul class="title-mes__list">
+                        <li><a href="https://moh.gov.vn/tin-noi-bat/-/asset_publisher/3Yst7YhbkA5j/content/bo-truong-bo-y-te-thong-tin-tiem-chung-cua-nguoi-dan-rat-can-thiet-e-thich-ung-an-toan-linh-hoat-kiem-soat-hieu-qua-dich-covid-19-" target="_blank">Bộ trưởng Bộ Y tế: Thông tin tiêm chủng của người dân rất cần thiết để 'thích ứng an toàn, linh hoạt, kiểm soát hiệu quả dịch COVID-19'</a></li>
+                        <li><a href="https://moh.gov.vn/tin-noi-bat/-/asset_publisher/3Yst7YhbkA5j/content/khan-truong-huong-dan-tiem-vaccine-cho-nguoi-duoi-18-tuoi" target="_blank">Khẩn trương hướng dẫn tiêm vaccine cho người dưới 18 tuổi</a></li>
+                        <li><a href="https://moh.gov.vn/tin-noi-bat/-/asset_publisher/3Yst7YhbkA5j/content/som-ua-hoat-ong-giao-duc-dan-tro-lai-trang-thai-binh-thuong-moi" target="_blank">Sớm đưa hoạt động giáo dục dần trở lại trạng thái bình thường mới</a></li>
+                        <li><a href="https://moh.gov.vn/tin-noi-bat/-/asset_publisher/3Yst7YhbkA5j/content/-en-luc-can-khoi-phuc-thi-truong-lao-ong" target="_blank">Đến lúc cần khôi phục thị trường lao động</a></li>
+                        <li><a href="https://moh.gov.vn/tin-noi-bat/-/asset_publisher/3Yst7YhbkA5j/content/bo-y-te-tiep-nhan-gan-2-trieu-lieu-vaccine-astrazeneca-do-chinh-phu-va-nhan-dan-ba-lan-va-chinh-phu-va-nhan-dan-han-quoc-tai-tro" target="_blank">Bộ Y tế tiếp nhận gần 2 triệu liều vaccine AstraZeneca do Chính phủ và Nhân dân Ba Lan và Chính phủ và Nhân dân Hàn Quốc tài trợ</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-lg-6 col-md-12">
+                <iframe class="youtube-iframe" src="https://www.youtube.com/embed/iGDFo7eQogg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
+            <div class="col-lg-6 col-md-12">
+                <div class="pd-l">
+                    <h3 class="info_ncovi">Hướng dẫn thực hiện test nhanh COVID-19| Kênh thông tin Bộ Y tế</h3>
+                    <p>Hướng dẫn thực hiện test nhanh mẫu gộp phát hiện kháng nguyên SARS-CoV-2 nhằm sàng lọc các ca dương tính tại cộng đồng.</p>                    
+                </div>
+
+            </div>
+        </div>
+
+        <h3 class="info_tiemchung">Thông tin tiêm chủng</h3>
+        <div class="row">
+            <div class="col-lg-4 col-md-4 col-6">
+                <div class="d-flex tiemchung-block">
+                    <i class="fa fa-user tiemchung-block-icon" aria-hidden="true"></i>
+                    <div class="tiemchung_form">
+                        <h5>Đối tượng đăng ký tiêm</h5>
+                        <h3 class="tiemchung_form-text">11,139,077 <span> lượt</span></h3>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-4 col-6">
+                <div class="d-flex tiemchung-block">
+                    <i class="fas fa-crutch tiemchung-block-icon" aria-hidden="true"></i>
+                    <div class="tiemchung_form">
+                        <h5>Số mũi tiêm hôm qua</h5>
+                        <h3 class="tiemchung_form-text">1,515,603 <span> mũi</span></h3>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-4 col-6">
+                <div class="d-flex tiemchung-block">
+                    <i class="fas fa-shield-alt tiemchung-block-icon" aria-hidden="true"></i>
+                    <div class="tiemchung_form">
+                        <h5>Số mũi đã tiêm toàn quốc</h5>
+                        <h3 class="tiemchung_form-text">62,601,776 <span> mũi</span></h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <h3 class="info_tiemchung">Tra cứu</h3>
+        <div class="row">
+            <div class="col-lg-3">
+                <div class="tracuu__block d-flex">
+                    <i class="fas fa-crutch tracuu__block-icon" aria-hidden="true"></i>
+                    <p><a href="#">Chương trình phát triển vacxin phòng bệnh</a></p>
+                </div>
+            </div>
+            <div class="col-lg-3">
+                <div class="tracuu__block d-flex">
+                    <i class="fa fa-television tracuu__block-icon" aria-hidden="true"></i>
+                    <p><a href="#">Công nghệ thông tin y tế</a></p>
+                </div>
+            </div>
+            <div class="col-lg-3">
+                <div class="tracuu__block d-flex">
+                    <i class="fa fa-medkit tracuu__block-icon" aria-hidden="true"></i>
+                    <p><a href="#">Kế hoạch hành động quốc gia về kháng thuốc</a></p>
+                </div>
+            </div>
+            <div class="col-lg-3">
+                <div class="tracuu__block d-flex">
+                    <i class="fa fa-blogger tracuu__block-icon" aria-hidden="true"></i>
+                    <p><a href="#">Báo cáo chung tổng quan ngành y tế hàng năm</a></p>
+                </div>
+            </div>
+
+        </div>
+
+        <div class="map-direct" style="margin: 20px auto;">
+            <div id="map" style="height: 600px;">
+                <div style="height: 600px;margin: 10px auto; font-size: 16px; line-height: 600px; text-align: center; color: white; background-color: #354046; user-select: none; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;" alt="">Bật Cho Phép Truy Cập Vị Trí Của Bạn Để Hiển Thị Hướng Dẫn Đến Bệnh Viện Gần Bạn</div>
+            </div>
+            <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBuBzeYkYimIquGG5KkIcB6vFmtHMUzDFo&signed_in=true&libraries=places&callback=initMap" async defer></script>
+        </div>
+    
+    
+
+    </div> 
+
+<!-- footer section starts  -->
+
+        <!-- Copyright Starts -->
+        <section id="about" class="copyright">
+            <div class="copyright-main">
+            <p class="x">
+                &copy; Copyright 2021. AlL Rights Reserved By
+                <a href="#">Hosptials</a>
+            </p>
+            <ul class="private">
+                <li><a href="#">Terms Of Services</a></li>
+                <li><a href="#">Privacy</a></li>
+                <li><a href="fb.com/trieuetam">Contact Us</a></li>
+            </ul>
+            </div>
+        </section>
+        <!-- Copyright Ends -->
+
+<!-- footer section ends -->
+
+    <script src="./assets/js/app.js"></script>
+    <script src="./assets/js/map.js"></script>
+</body>
+</html>

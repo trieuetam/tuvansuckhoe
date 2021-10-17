@@ -1,0 +1,157 @@
+{
+    "tatca": [
+    {
+        "Hello": "Hi",
+        "hello": "Hi",
+        "how are you?": "I'm fine thank you and you :))",
+        "How are you?": "I'm fine thank you and you :))",
+        "how are you": "I'm fine thank you and you :))",
+        "How are you": "I'm fine thank you and you :))",
+        "What your name": "I'm AI health counseling support system.",
+        "what your name": "I'm AI health counseling support system.",
+        "What your name?": "I'm AI health counseling support system.",
+        "what your name?": "I'm AI health counseling support system.",
+        "What's your name": "I'm AI health counseling support system.",
+        "what's your name": "I'm AI health counseling support system.",
+        "What's your name?": "I'm AI health counseling support system.",
+        "what's your name?": "I'm AI health counseling support system.",
+        "What is your name": "I'm AI health counseling support system.",
+        "what is your name": "I'm AI health counseling support system.",
+        "What is your name?": "I'm AI health counseling support system.",
+        "what is your name?": "I'm AI health counseling support system.",
+        "How old are you?": "I'm 1 month old",
+        "How old are you": "I'm 1 month old",
+        "how old are you?": "I'm 1 month old",
+        "how old are you": "I'm 1 month old",
+
+
+        "Thank you Doctor": " You’re welcome",
+        "thank you Doctor": " You’re welcome",
+        "Thank you doctor": " You’re welcome",
+        "thank you doctor": " You’re welcome",
+        "Cảm ơn bác sĩ": "Giúp đỡ các bạn là niềm vui của tôi :))",
+        "Chào bác sĩ": "Chào bạn, tôi có thể giúp được cho bạn?",
+        "chào bác sĩ": "Chào bạn, tôi có thể giúp được cho bạn?",
+        "Chao bac si": "Chào bạn, tôi có thể giúp được cho bạn?",
+        "chao bac si": "Chào bạn, tôi có thể giúp được cho bạn?",
+
+
+        "1+1": "2",
+        "2+2": "4",
+        "2x2": "4",
+        "2*2": "4",
+        "printf(\"Hello World\");": "Hello World", 
+        "cout<<\"Hello World\";": "Hello World", 
+        "Console.Write(\"Hello World\");": "Hello World",
+        "Console.WriteLine(\"Hello World\");": "Hello World",
+        "console.log(\"Hello World\")": "Hello World",
+        "console.log(\"Hello World\");": "Hello World", 
+        "System.out.print(\"Hello World\");": "Hello World", 
+        "System.out.println(\"Hello World\");": "Hello World", 
+
+
+        "COVID là gì?": "COVID hay COVID-19 là bệnh do vi-rút có tên là SARS-CoV-2 gây ra. Hầu hết mọi người mắc bệnh COVID-19 đều có các triệu chứng nhẹ, nhưng một số người có thể bị bệnh nặng. Mặc dù hầu hết những người mắc COVID-19 trở nên khỏe hơn chỉ trong vòng vài tuần kể từ khi nhiễm bệnh, một vài người lại gặp phải các tình trạng hậu COVID. Các tình trạng sau khi mắc COVID bao gồm rất nhiều vấn đề sức khỏe mới xuất hiện, xuất hiện trở lại hoặc tiếp diễn mà mọi người có thể gặp phải trong hơn bốn tuần sau khi họ bị nhiễm vi-rút gây ra bệnh COVID-19 lần đầu. Những người nhiều tuổi hơn và những người mắc một số bệnh nền nhất định có khả năng mắc bệnh nặng cao hơn do COVID-19. Vắc-xin ngừa COVID-19 là an toàn và có hiệu quả.",
+        "COVID là gì": "COVID hay COVID-19 là bệnh do vi-rút có tên là SARS-CoV-2 gây ra. Hầu hết mọi người mắc bệnh COVID-19 đều có các triệu chứng nhẹ, nhưng một số người có thể bị bệnh nặng. Mặc dù hầu hết những người mắc COVID-19 trở nên khỏe hơn chỉ trong vòng vài tuần kể từ khi nhiễm bệnh, một vài người lại gặp phải các tình trạng hậu COVID. Các tình trạng sau khi mắc COVID bao gồm rất nhiều vấn đề sức khỏe mới xuất hiện, xuất hiện trở lại hoặc tiếp diễn mà mọi người có thể gặp phải trong hơn bốn tuần sau khi họ bị nhiễm vi-rút gây ra bệnh COVID-19 lần đầu. Những người nhiều tuổi hơn và những người mắc một số bệnh nền nhất định có khả năng mắc bệnh nặng cao hơn do COVID-19. Vắc-xin ngừa COVID-19 là an toàn và có hiệu quả.",
+        "COVID-19 là gì?": "COVID-19 là bệnh do vi-rút có tên là SARS-CoV-2 gây ra. Hầu hết mọi người mắc bệnh COVID-19 đều có các triệu chứng nhẹ, nhưng một số người có thể bị bệnh nặng. Mặc dù hầu hết những người mắc COVID-19 trở nên khỏe hơn chỉ trong vòng vài tuần kể từ khi nhiễm bệnh, một vài người lại gặp phải các tình trạng hậu COVID. Các tình trạng sau khi mắc COVID bao gồm rất nhiều vấn đề sức khỏe mới xuất hiện, xuất hiện trở lại hoặc tiếp diễn mà mọi người có thể gặp phải trong hơn bốn tuần sau khi họ bị nhiễm vi-rút gây ra bệnh COVID-19 lần đầu. Những người nhiều tuổi hơn và những người mắc một số bệnh nền nhất định có khả năng mắc bệnh nặng cao hơn do COVID-19. Vắc-xin ngừa COVID-19 là an toàn và có hiệu quả.",
+        "COVID-19 là gì": "COVID-19 là bệnh do vi-rút có tên là SARS-CoV-2 gây ra. Hầu hết mọi người mắc bệnh COVID-19 đều có các triệu chứng nhẹ, nhưng một số người có thể bị bệnh nặng. Mặc dù hầu hết những người mắc COVID-19 trở nên khỏe hơn chỉ trong vòng vài tuần kể từ khi nhiễm bệnh, một vài người lại gặp phải các tình trạng hậu COVID. Các tình trạng sau khi mắc COVID bao gồm rất nhiều vấn đề sức khỏe mới xuất hiện, xuất hiện trở lại hoặc tiếp diễn mà mọi người có thể gặp phải trong hơn bốn tuần sau khi họ bị nhiễm vi-rút gây ra bệnh COVID-19 lần đầu. Những người nhiều tuổi hơn và những người mắc một số bệnh nền nhất định có khả năng mắc bệnh nặng cao hơn do COVID-19. Vắc-xin ngừa COVID-19 là an toàn và có hiệu quả.",
+
+
+        "Cách để nhận biết COVID": "Các triệu chứng thường gặp nhất:<br> sốt, ho, mệt mỏi, mất vị giác hoặc khứu giác.<br><br>Các triệu chứng ít gặp hơn:<br>đau họng, đau đầu, tiêu chảy, đau nhức, da nổi mẩn hay ngón tay hoặc ngón chân bị tấy đỏ hoặc tím tái, mắt đỏ hoặc ngứa.<br><br>Các triệu chứng nghiêm trọng:<br>Khó thở, mất khả năng nói hay cử động hoặc thấy lú lẫn, đau ngực<br>Hãy đi khám ngay lập tức nếu bạn gặp phải các triệu chứng nghiêm trọng. Luôn gọi điện trước khi gặp bác sĩ hoặc đến cơ sở y tế.<br><br>Những người có triệu chứng nhẹ và không có biểu hiện bệnh nào khác nên điều trị triệu chứng tại nhà.<br><br>Thông thường, các triệu chứng sẽ xuất hiện sau 5-6 ngày kể từ khi một người nhiễm vi-rút. Tuy nhiên, thời gian này có thể lên tới 14 ngày.",
+
+        "Cách để nhận biết COVID-19": "Các triệu chứng thường gặp nhất:<br> sốt, ho, mệt mỏi, mất vị giác hoặc khứu giác.<br><br>Các triệu chứng ít gặp hơn:<br>đau họng, đau đầu, tiêu chảy, đau nhức, da nổi mẩn hay ngón tay hoặc ngón chân bị tấy đỏ hoặc tím tái, mắt đỏ hoặc ngứa.<br><br>Các triệu chứng nghiêm trọng:<br>Khó thở, mất khả năng nói hay cử động hoặc thấy lú lẫn, đau ngực<br>Hãy đi khám ngay lập tức nếu bạn gặp phải các triệu chứng nghiêm trọng. Luôn gọi điện trước khi gặp bác sĩ hoặc đến cơ sở y tế.<br><br>Những người có triệu chứng nhẹ và không có biểu hiện bệnh nào khác nên điều trị triệu chứng tại nhà.<br><br>Thông thường, các triệu chứng sẽ xuất hiện sau 5-6 ngày kể từ khi một người nhiễm vi-rút. Tuy nhiên, thời gian này có thể lên tới 14 ngày.",
+
+
+        "Các triệu chứng khi dính phải COVID?": "Các triệu chứng thường gặp nhất:<br>sốt, ho, mệt mỏi, mất vị giác hoặc khứu giác.<br>Các triệu chứng ít gặp hơn:<br>đau họng, đau đầu, tiêu chảy, đau nhức, da nổi mẩn hay ngón tay hoặc ngón chân bị tấy đỏ hoặc tím tái, mắt đỏ hoặc ngứa.<br>Các triệu chứng nghiêm trọng:<br>Khó thở, mất khả năng nói hay cử động hoặc thấy lú lẫn, đau ngực<br>Hãy đi khám ngay lập tức nếu bạn gặp phải các triệu chứng nghiêm trọng. Luôn gọi điện trước khi gặp bác sĩ hoặc đến cơ sở y tế.<br><br>Những người có triệu chứng nhẹ và không có biểu hiện bệnh nào khác nên điều trị triệu chứng tại nhà.<br><br>Thông thường, các triệu chứng sẽ xuất hiện sau 5-6 ngày kể từ khi một người nhiễm vi-rút. Tuy nhiên, thời gian này có thể lên tới 14 ngày.",
+        "Các triệu chứng khi dính phải COVID": "Các triệu chứng thường gặp nhất:<br>sốt, ho, mệt mỏi, mất vị giác hoặc khứu giác.<br>Các triệu chứng ít gặp hơn:<br>đau họng, đau đầu, tiêu chảy, đau nhức, da nổi mẩn hay ngón tay hoặc ngón chân bị tấy đỏ hoặc tím tái, mắt đỏ hoặc ngứa.<br>Các triệu chứng nghiêm trọng:<br>Khó thở, mất khả năng nói hay cử động hoặc thấy lú lẫn, đau ngực<br>Hãy đi khám ngay lập tức nếu bạn gặp phải các triệu chứng nghiêm trọng. Luôn gọi điện trước khi gặp bác sĩ hoặc đến cơ sở y tế.<br><br>Những người có triệu chứng nhẹ và không có biểu hiện bệnh nào khác nên điều trị triệu chứng tại nhà.<br><br>Thông thường, các triệu chứng sẽ xuất hiện sau 5-6 ngày kể từ khi một người nhiễm vi-rút. Tuy nhiên, thời gian này có thể lên tới 14 ngày.",
+        "Các triệu chứng khi dính phải COVID-19?": "Các triệu chứng thường gặp nhất:<br>sốt, ho, mệt mỏi, mất vị giác hoặc khứu giác.<br>Các triệu chứng ít gặp hơn:<br>đau họng, đau đầu, tiêu chảy, đau nhức, da nổi mẩn hay ngón tay hoặc ngón chân bị tấy đỏ hoặc tím tái, mắt đỏ hoặc ngứa.<br>Các triệu chứng nghiêm trọng:<br>Khó thở, mất khả năng nói hay cử động hoặc thấy lú lẫn, đau ngực<br>Hãy đi khám ngay lập tức nếu bạn gặp phải các triệu chứng nghiêm trọng. Luôn gọi điện trước khi gặp bác sĩ hoặc đến cơ sở y tế.<br><br>Những người có triệu chứng nhẹ và không có biểu hiện bệnh nào khác nên điều trị triệu chứng tại nhà.<br><br>Thông thường, các triệu chứng sẽ xuất hiện sau 5-6 ngày kể từ khi một người nhiễm vi-rút. Tuy nhiên, thời gian này có thể lên tới 14 ngày.",
+        "Các triệu chứng khi dính phải COVID-19": "Các triệu chứng thường gặp nhất:<br>sốt, ho, mệt mỏi, mất vị giác hoặc khứu giác.<br>Các triệu chứng ít gặp hơn:<br>đau họng, đau đầu, tiêu chảy, đau nhức, da nổi mẩn hay ngón tay hoặc ngón chân bị tấy đỏ hoặc tím tái, mắt đỏ hoặc ngứa.<br>Các triệu chứng nghiêm trọng:<br>Khó thở, mất khả năng nói hay cử động hoặc thấy lú lẫn, đau ngực<br>Hãy đi khám ngay lập tức nếu bạn gặp phải các triệu chứng nghiêm trọng. Luôn gọi điện trước khi gặp bác sĩ hoặc đến cơ sở y tế.<br><br>Những người có triệu chứng nhẹ và không có biểu hiện bệnh nào khác nên điều trị triệu chứng tại nhà.<br><br>Thông thường, các triệu chứng sẽ xuất hiện sau 5-6 ngày kể từ khi một người nhiễm vi-rút. Tuy nhiên, thời gian này có thể lên tới 14 ngày.",
+
+
+        "Các biện pháp phòng chống COVID-19?": "Thực hiện tốt khuyến cáo 5K của Bộ Y tế<br>1. KHẨU TRANG: Đeo khẩu trang vải thường xuyên tại nơi công cộng, nơi tập trung đông người; đeo khẩu trang y tế tại các cơ sở y tế, khu cách ly.<br>2. KHỬ KHUẨN: Rửa tay thường xuyên bằng xà phòng hoặc dung dịch sát khuẩn tay. Vệ sinh các bề mặt/ vật dụng thường xuyên tiếp xúc (tay nắm cửa, điện thoại, máy tính bảng, mặt bàn, ghế…). Giữ vệ sinh, lau rửa và để nhà cửa thông thoáng.<br>3. KHOẢNG CÁCH: Giữ khoảng cách khi tiếp xúc với người khác.<br>4. KHÔNG TỤ TẬP đông người.<br>5. KHAI BÁO Y TẾ: thực hiện khai báo y tế<br>",
+        "Các biện pháp phòng chống COVID-19": "Thực hiện tốt khuyến cáo 5K của Bộ Y tế<br>1. KHẨU TRANG: Đeo khẩu trang vải thường xuyên tại nơi công cộng, nơi tập trung đông người; đeo khẩu trang y tế tại các cơ sở y tế, khu cách ly.<br>2. KHỬ KHUẨN: Rửa tay thường xuyên bằng xà phòng hoặc dung dịch sát khuẩn tay. Vệ sinh các bề mặt/ vật dụng thường xuyên tiếp xúc (tay nắm cửa, điện thoại, máy tính bảng, mặt bàn, ghế…). Giữ vệ sinh, lau rửa và để nhà cửa thông thoáng.<br>3. KHOẢNG CÁCH: Giữ khoảng cách khi tiếp xúc với người khác.<br>4. KHÔNG TỤ TẬP đông người.<br>5. KHAI BÁO Y TẾ: thực hiện khai báo y tế<br>",
+        "Các biện pháp phòng chống COVID?": "Thực hiện tốt khuyến cáo 5K của Bộ Y tế<br>1. KHẨU TRANG: Đeo khẩu trang vải thường xuyên tại nơi công cộng, nơi tập trung đông người; đeo khẩu trang y tế tại các cơ sở y tế, khu cách ly.<br>2. KHỬ KHUẨN: Rửa tay thường xuyên bằng xà phòng hoặc dung dịch sát khuẩn tay. Vệ sinh các bề mặt/ vật dụng thường xuyên tiếp xúc (tay nắm cửa, điện thoại, máy tính bảng, mặt bàn, ghế…). Giữ vệ sinh, lau rửa và để nhà cửa thông thoáng.<br>3. KHOẢNG CÁCH: Giữ khoảng cách khi tiếp xúc với người khác.<br>4. KHÔNG TỤ TẬP đông người.<br>5. KHAI BÁO Y TẾ: thực hiện khai báo y tế<br>",
+        "Các biện pháp phòng chống COVID": "Thực hiện tốt khuyến cáo 5K của Bộ Y tế<br>1. KHẨU TRANG: Đeo khẩu trang vải thường xuyên tại nơi công cộng, nơi tập trung đông người; đeo khẩu trang y tế tại các cơ sở y tế, khu cách ly.<br>2. KHỬ KHUẨN: Rửa tay thường xuyên bằng xà phòng hoặc dung dịch sát khuẩn tay. Vệ sinh các bề mặt/ vật dụng thường xuyên tiếp xúc (tay nắm cửa, điện thoại, máy tính bảng, mặt bàn, ghế…). Giữ vệ sinh, lau rửa và để nhà cửa thông thoáng.<br>3. KHOẢNG CÁCH: Giữ khoảng cách khi tiếp xúc với người khác.<br>4. KHÔNG TỤ TẬP đông người.<br>5. KHAI BÁO Y TẾ: thực hiện khai báo y tế<br>",
+        "Các biện pháp phòng tránh COVID-19?": "Thực hiện tốt khuyến cáo 5K của Bộ Y tế<br>1. KHẨU TRANG: Đeo khẩu trang vải thường xuyên tại nơi công cộng, nơi tập trung đông người; đeo khẩu trang y tế tại các cơ sở y tế, khu cách ly.<br>2. KHỬ KHUẨN: Rửa tay thường xuyên bằng xà phòng hoặc dung dịch sát khuẩn tay. Vệ sinh các bề mặt/ vật dụng thường xuyên tiếp xúc (tay nắm cửa, điện thoại, máy tính bảng, mặt bàn, ghế…). Giữ vệ sinh, lau rửa và để nhà cửa thông thoáng.<br>3. KHOẢNG CÁCH: Giữ khoảng cách khi tiếp xúc với người khác.<br>4. KHÔNG TỤ TẬP đông người.<br>5. KHAI BÁO Y TẾ: thực hiện khai báo y tế<br>",
+        "Các biện pháp phòng tránh COVID-19": "Thực hiện tốt khuyến cáo 5K của Bộ Y tế<br>1. KHẨU TRANG: Đeo khẩu trang vải thường xuyên tại nơi công cộng, nơi tập trung đông người; đeo khẩu trang y tế tại các cơ sở y tế, khu cách ly.<br>2. KHỬ KHUẨN: Rửa tay thường xuyên bằng xà phòng hoặc dung dịch sát khuẩn tay. Vệ sinh các bề mặt/ vật dụng thường xuyên tiếp xúc (tay nắm cửa, điện thoại, máy tính bảng, mặt bàn, ghế…). Giữ vệ sinh, lau rửa và để nhà cửa thông thoáng.<br>3. KHOẢNG CÁCH: Giữ khoảng cách khi tiếp xúc với người khác.<br>4. KHÔNG TỤ TẬP đông người.<br>5. KHAI BÁO Y TẾ: thực hiện khai báo y tế<br>",
+        "Các biện pháp phòng tránh COVID?": "Thực hiện tốt khuyến cáo 5K của Bộ Y tế<br>1. KHẨU TRANG: Đeo khẩu trang vải thường xuyên tại nơi công cộng, nơi tập trung đông người; đeo khẩu trang y tế tại các cơ sở y tế, khu cách ly.<br>2. KHỬ KHUẨN: Rửa tay thường xuyên bằng xà phòng hoặc dung dịch sát khuẩn tay. Vệ sinh các bề mặt/ vật dụng thường xuyên tiếp xúc (tay nắm cửa, điện thoại, máy tính bảng, mặt bàn, ghế…). Giữ vệ sinh, lau rửa và để nhà cửa thông thoáng.<br>3. KHOẢNG CÁCH: Giữ khoảng cách khi tiếp xúc với người khác.<br>4. KHÔNG TỤ TẬP đông người.<br>5. KHAI BÁO Y TẾ: thực hiện khai báo y tế<br>",
+        "Các biện pháp phòng tránh COVID": "Thực hiện tốt khuyến cáo 5K của Bộ Y tế<br>1. KHẨU TRANG: Đeo khẩu trang vải thường xuyên tại nơi công cộng, nơi tập trung đông người; đeo khẩu trang y tế tại các cơ sở y tế, khu cách ly.<br>2. KHỬ KHUẨN: Rửa tay thường xuyên bằng xà phòng hoặc dung dịch sát khuẩn tay. Vệ sinh các bề mặt/ vật dụng thường xuyên tiếp xúc (tay nắm cửa, điện thoại, máy tính bảng, mặt bàn, ghế…). Giữ vệ sinh, lau rửa và để nhà cửa thông thoáng.<br>3. KHOẢNG CÁCH: Giữ khoảng cách khi tiếp xúc với người khác.<br>4. KHÔNG TỤ TẬP đông người.<br>5. KHAI BÁO Y TẾ: thực hiện khai báo y tế<br>",
+
+
+
+        "Làm gì khi bản thân bị nhiễm COVID-19?": "Khi có dấu hiệu sốt, ho, khó thở hãy gọi điện cho đường dây nóng của Bộ Y tế 19009095 hoặc đường dây nóng của y tế địa phương để được tư vấn, hỗ trợ, hướng dẫn đi khám bệnh đảm bảo an toàn.",
+
+        "Làm gì khi bản thân bị nhiễm COVID-19": "Khi có dấu hiệu sốt, ho, khó thở hãy gọi điện cho đường dây nóng của Bộ Y tế 19009095 hoặc đường dây nóng của y tế địa phương để được tư vấn, hỗ trợ, hướng dẫn đi khám bệnh đảm bảo an toàn.",
+
+        "Làm gì khi bản thân bị nhiễm COVID?": "Khi có dấu hiệu sốt, ho, khó thở hãy gọi điện cho đường dây nóng của Bộ Y tế 19009095 hoặc đường dây nóng của y tế địa phương để được tư vấn, hỗ trợ, hướng dẫn đi khám bệnh đảm bảo an toàn.",
+
+        "Làm gì khi bản thân bị nhiễm COVID": "Khi có dấu hiệu sốt, ho, khó thở hãy gọi điện cho đường dây nóng của Bộ Y tế 19009095 hoặc đường dây nóng của y tế địa phương để được tư vấn, hỗ trợ, hướng dẫn đi khám bệnh đảm bảo an toàn.",
+
+
+        "Thời gian ủ bệnh của COVID-19 là bao lâu?": "Trung bình khoảng từ 4 đến 5 ngày và hầu như luôn trong khoảng từ 1 đến 14 ngày.<br><br>Gần 98% số người có triệu chứng sẽ có diễn biến như vậy trong 12 ngày hoặc ít hơn sau khi họ bị nhiễm bệnh.",
+        "Thời gian ủ bệnh của COVID-19 là bao lâu": "Trung bình khoảng từ 4 đến 5 ngày và hầu như luôn trong khoảng từ 1 đến 14 ngày.<br><br>Gần 98% số người có triệu chứng sẽ có diễn biến như vậy trong 12 ngày hoặc ít hơn sau khi họ bị nhiễm bệnh.",
+        "Thời gian ủ bệnh của COVID là bao lâu?": "Trung bình khoảng từ 4 đến 5 ngày và hầu như luôn trong khoảng từ 1 đến 14 ngày.<br><br>Gần 98% số người có triệu chứng sẽ có diễn biến như vậy trong 12 ngày hoặc ít hơn sau khi họ bị nhiễm bệnh.",
+        "Thời gian ủ bệnh của COVID là bao lâu": "Trung bình khoảng từ 4 đến 5 ngày và hầu như luôn trong khoảng từ 1 đến 14 ngày.<br><br>Gần 98% số người có triệu chứng sẽ có diễn biến như vậy trong 12 ngày hoặc ít hơn sau khi họ bị nhiễm bệnh.",
+
+
+        "Bệnh do COVID-19 kéo dài trong bao lâu?": "Nhiều điều về vấn đề này vẫn chưa được biết đến. Tuy nhiên, bệnh nhẹ có xu hướng giảm dần trong khoảng 2 tuần. Nếu bệnh nặng, thời gian trung bình đến khi bị khó thở là từ 5 đến 8 ngày và đến khi bị hội chứng suy hô hấp cấp tính (ARDS) là từ 8 đến 12 ngày. Trong số các bệnh nhân nằm viện, 26% đến 32% số bệnh nhân đã phải nhập viện vào khoa hồi sức tích cực (ICU). Tỉ lệ tử vong ở bệnh nhân ICU dao động từ 39% đến 72%. Thời gian nằm viện trung bình của những người có khả năng sống là từ 10 đến 13 ngày.<br><br>Một số bệnh nhân tiếp tục có các triệu chứng như mệt mỏi, đau đầu và khó thở trong vài tuần đến vài tháng sau khi hồi phục.",
+
+        "Bệnh do COVID-19 kéo dài trong bao lâu": "Nhiều điều về vấn đề này vẫn chưa được biết đến. Tuy nhiên, bệnh nhẹ có xu hướng giảm dần trong khoảng 2 tuần. Nếu bệnh nặng, thời gian trung bình đến khi bị khó thở là từ 5 đến 8 ngày và đến khi bị hội chứng suy hô hấp cấp tính (ARDS) là từ 8 đến 12 ngày. Trong số các bệnh nhân nằm viện, 26% đến 32% số bệnh nhân đã phải nhập viện vào khoa hồi sức tích cực (ICU). Tỉ lệ tử vong ở bệnh nhân ICU dao động từ 39% đến 72%. Thời gian nằm viện trung bình của những người có khả năng sống là từ 10 đến 13 ngày.<br><br>Một số bệnh nhân tiếp tục có các triệu chứng như mệt mỏi, đau đầu và khó thở trong vài tuần đến vài tháng sau khi hồi phục.",
+
+        "Bệnh do COVID kéo dài trong bao lâu?": "Nhiều điều về vấn đề này vẫn chưa được biết đến. Tuy nhiên, bệnh nhẹ có xu hướng giảm dần trong khoảng 2 tuần. Nếu bệnh nặng, thời gian trung bình đến khi bị khó thở là từ 5 đến 8 ngày và đến khi bị hội chứng suy hô hấp cấp tính (ARDS) là từ 8 đến 12 ngày. Trong số các bệnh nhân nằm viện, 26% đến 32% số bệnh nhân đã phải nhập viện vào khoa hồi sức tích cực (ICU). Tỉ lệ tử vong ở bệnh nhân ICU dao động từ 39% đến 72%. Thời gian nằm viện trung bình của những người có khả năng sống là từ 10 đến 13 ngày.<br><br>Một số bệnh nhân tiếp tục có các triệu chứng như mệt mỏi, đau đầu và khó thở trong vài tuần đến vài tháng sau khi hồi phục.",
+
+        "Bệnh do COVID kéo dài trong bao lâu": "Nhiều điều về vấn đề này vẫn chưa được biết đến. Tuy nhiên, bệnh nhẹ có xu hướng giảm dần trong khoảng 2 tuần. Nếu bệnh nặng, thời gian trung bình đến khi bị khó thở là từ 5 đến 8 ngày và đến khi bị hội chứng suy hô hấp cấp tính (ARDS) là từ 8 đến 12 ngày. Trong số các bệnh nhân nằm viện, 26% đến 32% số bệnh nhân đã phải nhập viện vào khoa hồi sức tích cực (ICU). Tỉ lệ tử vong ở bệnh nhân ICU dao động từ 39% đến 72%. Thời gian nằm viện trung bình của những người có khả năng sống là từ 10 đến 13 ngày.<br><br>Một số bệnh nhân tiếp tục có các triệu chứng như mệt mỏi, đau đầu và khó thở trong vài tuần đến vài tháng sau khi hồi phục.",
+
+
+        "Tỉ lệ tử vong/ca nhiễm COVID-19 là bao nhiêu?": 
+        "Tại Việt Nam:<br>Tổng số ca nhiễm: 814N người<br>Tổng số ca tử vong: 19N người.<br><br>Toàn thế giới:<br>Tổng số ca nhiễm: 219 Tr người<br>Tổng số ca tử vong: 4,55 Tr người.<br><br>Dữ liệu cập nhập: 9/2021",
+        "Tỉ lệ tử vong/ca nhiễm COVID-19 là bao nhiêu": 
+        "Tại Việt Nam:<br>Tổng số ca nhiễm: 814N người<br>Tổng số ca tử vong: 19N người.<br><br>Toàn thế giới:<br>Tổng số ca nhiễm: 219 Tr người<br>Tổng số ca tử vong: 4,55 Tr người.<br><br>Dữ liệu cập nhập: 9/2021",
+        "Tỉ lệ tử vong/ca nhiễm COVID là bao nhiêu?": 
+        "Tại Việt Nam:<br>Tổng số ca nhiễm: 814N người<br>Tổng số ca tử vong: 19N người.<br><br>Toàn thế giới:<br>Tổng số ca nhiễm: 219 Tr người<br>Tổng số ca tử vong: 4,55 Tr người.<br><br>Dữ liệu cập nhập: 9/2021",
+        "Tỉ lệ tử vong/ca nhiễm COVID là bao nhiêu": 
+        "Tại Việt Nam:<br>Tổng số ca nhiễm: 814N người<br>Tổng số ca tử vong: 19N người.<br><br>Toàn thế giới:<br>Tổng số ca nhiễm: 219 Tr người<br>Tổng số ca tử vong: 4,55 Tr người.<br><br>Dữ liệu cập nhập: 9/2021",
+
+
+        "Tỉ lệ tử vong COVID-19 là bao nhiêu?": 
+        "Tại Việt Nam:<br>Tổng số ca tử vong: 19N người.<br><br>Toàn thế giới:<br>Tổng số ca tử vong: 4,55 Tr người.<br><br>Dữ liệu cập nhập: 9/2021",
+        "Tỉ lệ tử vong COVID-19 là bao nhiêu": 
+        "Tại Việt Nam:<br>Tổng số ca tử vong: 19N người.<br><br>Toàn thế giới:<br>Tổng số ca tử vong: 4,55 Tr người.<br><br>Dữ liệu cập nhập: 9/2021",
+        "Tỉ lệ tử vong COVID là bao nhiêu?": 
+        "Tại Việt Nam:<br>Tổng số ca tử vong: 19N người.<br><br>Toàn thế giới:<br>Tổng số ca tử vong: 4,55 Tr người.<br><br>Dữ liệu cập nhập: 9/2021",
+        "Tỉ lệ tử vong COVID là bao nhiêu": 
+        "Tại Việt Nam:<br>Tổng số ca tử vong: 19N người.<br><br>Toàn thế giới:<br>Tổng số ca tử vong: 4,55 Tr người.<br><br>Dữ liệu cập nhập: 9/2021",
+
+
+        "Tỉ lệ ca nhiễm COVID-19 là bao nhiêu?": 
+        "Tại Việt Nam:<br>Tổng số ca nhiễm: 814N người<br>Toàn thế giới:<br>Tổng số ca nhiễm: 219 Tr người<br><br>Dữ liệu cập nhập: 9/2021",
+        "Tỉ lệ ca nhiễm COVID-19 là bao nhiêu": 
+        "Tại Việt Nam:<br>Tổng số ca nhiễm: 814N người<br>Toàn thế giới:<br>Tổng số ca nhiễm: 219 Tr người<br><br>Dữ liệu cập nhập: 9/2021",
+        "Tỉ lệ ca nhiễm COVID là bao nhiêu?": 
+        "Tại Việt Nam:<br>Tổng số ca nhiễm: 814N người<br>Toàn thế giới:<br>Tổng số ca nhiễm: 219 Tr người<br><br>Dữ liệu cập nhập: 9/2021",
+        "Tỉ lệ ca nhiễm COVID là bao nhiêu": 
+        "Tại Việt Nam:<br>Tổng số ca nhiễm: 814N người<br>Toàn thế giới:<br>Tổng số ca nhiễm: 219 Tr người<br><br>Dữ liệu cập nhập: 9/2021",
+
+
+        "Tỉ lệ mắc COVID-19 ở trẻ em là bao nhiêu?": "Mặc dù trẻ em có nguy cơ bị nhiễm COVID-19 tương tự như người lớn, nhưng không thể biết tỉ lệ nhiễm thực sự; vì các biểu hiện bệnh ở trẻ em nhẹ hơn nhiều, xét nghiệm ít được thực hiện thường xuyên hơn trên trẻ em. Các nghiên cứu cho thấy từ 16% đến 45% số trẻ em bị nhiễm SARS-CoV-2 không có triệu chứng. Một nghiên cứu trên tạp chí Pediatrics (DOI: 10.1542/peds.2020-0702), dựa trên kinh nghiệm ở Trung Quốc với hơn 2.000 trẻ dưới 18 tuổi, đã cho thấy trẻ ở mọi lứa tuổi đều có vẻ dễ mắc COVID-19. Hơn một phần ba số trẻ em được xét nghiệm đã được xác nhận là nhiễm vi rút. Hơn 90% số bệnh nhân nhi bị bệnh không có triệu chứng, nhẹ hoặc trung bình, trong khi khoảng 6% số trẻ bị bệnh nặng hoặc nguy kịch.",
+        "Tỉ lệ mắc COVID-19 ở trẻ em là bao nhiêu": "Mặc dù trẻ em có nguy cơ bị nhiễm COVID-19 tương tự như người lớn, nhưng không thể biết tỉ lệ nhiễm thực sự; vì các biểu hiện bệnh ở trẻ em nhẹ hơn nhiều, xét nghiệm ít được thực hiện thường xuyên hơn trên trẻ em. Các nghiên cứu cho thấy từ 16% đến 45% số trẻ em bị nhiễm SARS-CoV-2 không có triệu chứng. Một nghiên cứu trên tạp chí Pediatrics (DOI: 10.1542/peds.2020-0702), dựa trên kinh nghiệm ở Trung Quốc với hơn 2.000 trẻ dưới 18 tuổi, đã cho thấy trẻ ở mọi lứa tuổi đều có vẻ dễ mắc COVID-19. Hơn một phần ba số trẻ em được xét nghiệm đã được xác nhận là nhiễm vi rút. Hơn 90% số bệnh nhân nhi bị bệnh không có triệu chứng, nhẹ hoặc trung bình, trong khi khoảng 6% số trẻ bị bệnh nặng hoặc nguy kịch.",
+        "Tỉ lệ mắc COVID ở trẻ em là bao nhiêu?": "Mặc dù trẻ em có nguy cơ bị nhiễm COVID-19 tương tự như người lớn, nhưng không thể biết tỉ lệ nhiễm thực sự; vì các biểu hiện bệnh ở trẻ em nhẹ hơn nhiều, xét nghiệm ít được thực hiện thường xuyên hơn trên trẻ em. Các nghiên cứu cho thấy từ 16% đến 45% số trẻ em bị nhiễm SARS-CoV-2 không có triệu chứng. Một nghiên cứu trên tạp chí Pediatrics (DOI: 10.1542/peds.2020-0702), dựa trên kinh nghiệm ở Trung Quốc với hơn 2.000 trẻ dưới 18 tuổi, đã cho thấy trẻ ở mọi lứa tuổi đều có vẻ dễ mắc COVID-19. Hơn một phần ba số trẻ em được xét nghiệm đã được xác nhận là nhiễm vi rút. Hơn 90% số bệnh nhân nhi bị bệnh không có triệu chứng, nhẹ hoặc trung bình, trong khi khoảng 6% số trẻ bị bệnh nặng hoặc nguy kịch.",
+        "Tỉ lệ mắc COVID ở trẻ em là bao nhiêu": "Mặc dù trẻ em có nguy cơ bị nhiễm COVID-19 tương tự như người lớn, nhưng không thể biết tỉ lệ nhiễm thực sự; vì các biểu hiện bệnh ở trẻ em nhẹ hơn nhiều, xét nghiệm ít được thực hiện thường xuyên hơn trên trẻ em. Các nghiên cứu cho thấy từ 16% đến 45% số trẻ em bị nhiễm SARS-CoV-2 không có triệu chứng. Một nghiên cứu trên tạp chí Pediatrics (DOI: 10.1542/peds.2020-0702), dựa trên kinh nghiệm ở Trung Quốc với hơn 2.000 trẻ dưới 18 tuổi, đã cho thấy trẻ ở mọi lứa tuổi đều có vẻ dễ mắc COVID-19. Hơn một phần ba số trẻ em được xét nghiệm đã được xác nhận là nhiễm vi rút. Hơn 90% số bệnh nhân nhi bị bệnh không có triệu chứng, nhẹ hoặc trung bình, trong khi khoảng 6% số trẻ bị bệnh nặng hoặc nguy kịch.",
+
+
+        "Vật nuôi có thể nhiễm COVID-19 hoặc truyền bệnh này sang người không?": "Một số ít vật nuôi trên toàn thế giới, bao gồm cả mèo và chó, đã được báo cáo là bị nhiễm vi-rút gây ra COVID-19, chủ yếu là sau khi tiếp xúc gần với những người bị COVID-19. Vi-rút gây ra COVID-19 có thể lây lan từ người sang động vật trong một số trường hợp. Tuy nhiên, nguy cơ động vật lây lan COVID-19 sang người được coi là thấp. Cho đến khi chúng ta tìm hiểu thêm về cách vi-rút này ảnh hưởng đến động vật, CDC khuyến nghị thực hiện với vật nuôi theo đúng cách quý vị làm với các thành viên khác trong gia đình để bảo vệ vật nuôi khỏi bị nhiễm bệnh.Họ đề nghị rằng không cho vật nuôi tương tác với người hoặc động vật bên ngoài hộ gia đình. Những người bị nhiễm COVID-19 cần phải hạn chế tiếp xúc với vật nuôi của họ. ",
+        "Vật nuôi có thể nhiễm COVID-19 hoặc truyền bệnh này sang người không": "Một số ít vật nuôi trên toàn thế giới, bao gồm cả mèo và chó, đã được báo cáo là bị nhiễm vi-rút gây ra COVID-19, chủ yếu là sau khi tiếp xúc gần với những người bị COVID-19. Vi-rút gây ra COVID-19 có thể lây lan từ người sang động vật trong một số trường hợp. Tuy nhiên, nguy cơ động vật lây lan COVID-19 sang người được coi là thấp. Cho đến khi chúng ta tìm hiểu thêm về cách vi-rút này ảnh hưởng đến động vật, CDC khuyến nghị thực hiện với vật nuôi theo đúng cách quý vị làm với các thành viên khác trong gia đình để bảo vệ vật nuôi khỏi bị nhiễm bệnh.Họ đề nghị rằng không cho vật nuôi tương tác với người hoặc động vật bên ngoài hộ gia đình. Những người bị nhiễm COVID-19 cần phải hạn chế tiếp xúc với vật nuôi của họ. ",
+        "Vật nuôi có thể nhiễm COVID hoặc truyền bệnh này sang người không?": "Một số ít vật nuôi trên toàn thế giới, bao gồm cả mèo và chó, đã được báo cáo là bị nhiễm vi-rút gây ra COVID-19, chủ yếu là sau khi tiếp xúc gần với những người bị COVID-19. Vi-rút gây ra COVID-19 có thể lây lan từ người sang động vật trong một số trường hợp. Tuy nhiên, nguy cơ động vật lây lan COVID-19 sang người được coi là thấp. Cho đến khi chúng ta tìm hiểu thêm về cách vi-rút này ảnh hưởng đến động vật, CDC khuyến nghị thực hiện với vật nuôi theo đúng cách quý vị làm với các thành viên khác trong gia đình để bảo vệ vật nuôi khỏi bị nhiễm bệnh.Họ đề nghị rằng không cho vật nuôi tương tác với người hoặc động vật bên ngoài hộ gia đình. Những người bị nhiễm COVID-19 cần phải hạn chế tiếp xúc với vật nuôi của họ. ",
+        "Vật nuôi có thể nhiễm COVID hoặc truyền bệnh này sang người không": "Một số ít vật nuôi trên toàn thế giới, bao gồm cả mèo và chó, đã được báo cáo là bị nhiễm vi-rút gây ra COVID-19, chủ yếu là sau khi tiếp xúc gần với những người bị COVID-19. Vi-rút gây ra COVID-19 có thể lây lan từ người sang động vật trong một số trường hợp. Tuy nhiên, nguy cơ động vật lây lan COVID-19 sang người được coi là thấp. Cho đến khi chúng ta tìm hiểu thêm về cách vi-rút này ảnh hưởng đến động vật, CDC khuyến nghị thực hiện với vật nuôi theo đúng cách quý vị làm với các thành viên khác trong gia đình để bảo vệ vật nuôi khỏi bị nhiễm bệnh.Họ đề nghị rằng không cho vật nuôi tương tác với người hoặc động vật bên ngoài hộ gia đình. Những người bị nhiễm COVID-19 cần phải hạn chế tiếp xúc với vật nuôi của họ. ",
+
+
+        "Ai cần phải được xét nghiệm COVID-19?": "Những bệnh nhân sau đây cần phải kiểm tra SARS-CoV-2 bằng các xét nghiệm vi rút (nghĩa là xét nghiệm axit nucleic hoặc xét nghiệm kháng nguyên) <br><br>Những người có dấu hiệu hoặc triệu chứng phù hợp với COVID-19.<br>Những người không có triệu chứng gần đây nghi ngờ hoặc đã biết là có phơi nhiễm với SARS-CoV-2 để kiểm soát mức độ lây truyền.<br>Các trường hợp đặc biệt khác.<br>Các bác sĩ cũng được khuyến khích làm xét nghiệm để tìm các nguyên nhân khác gây bệnh hô hấp như cúm và viêm phổi do vi khuẩn.",
+        "Ai cần phải được xét nghiệm COVID-19": "Những bệnh nhân sau đây cần phải kiểm tra SARS-CoV-2 bằng các xét nghiệm vi rút (nghĩa là xét nghiệm axit nucleic hoặc xét nghiệm kháng nguyên) <br><br>Những người có dấu hiệu hoặc triệu chứng phù hợp với COVID-19.<br>Những người không có triệu chứng gần đây nghi ngờ hoặc đã biết là có phơi nhiễm với SARS-CoV-2 để kiểm soát mức độ lây truyền.<br>Các trường hợp đặc biệt khác.<br>Các bác sĩ cũng được khuyến khích làm xét nghiệm để tìm các nguyên nhân khác gây bệnh hô hấp như cúm và viêm phổi do vi khuẩn.",
+        "Ai cần phải được xét nghiệm COVID?": "Những bệnh nhân sau đây cần phải kiểm tra SARS-CoV-2 bằng các xét nghiệm vi rút (nghĩa là xét nghiệm axit nucleic hoặc xét nghiệm kháng nguyên) <br><br>Những người có dấu hiệu hoặc triệu chứng phù hợp với COVID-19.<br>Những người không có triệu chứng gần đây nghi ngờ hoặc đã biết là có phơi nhiễm với SARS-CoV-2 để kiểm soát mức độ lây truyền.<br>Các trường hợp đặc biệt khác.<br>Các bác sĩ cũng được khuyến khích làm xét nghiệm để tìm các nguyên nhân khác gây bệnh hô hấp như cúm và viêm phổi do vi khuẩn.",
+        "Ai cần phải được xét nghiệm COVID": "Những bệnh nhân sau đây cần phải kiểm tra SARS-CoV-2 bằng các xét nghiệm vi rút (nghĩa là xét nghiệm axit nucleic hoặc xét nghiệm kháng nguyên) <br><br>Những người có dấu hiệu hoặc triệu chứng phù hợp với COVID-19.<br>Những người không có triệu chứng gần đây nghi ngờ hoặc đã biết là có phơi nhiễm với SARS-CoV-2 để kiểm soát mức độ lây truyền.<br>Các trường hợp đặc biệt khác.<br>Các bác sĩ cũng được khuyến khích làm xét nghiệm để tìm các nguyên nhân khác gây bệnh hô hấp như cúm và viêm phổi do vi khuẩn.",
+
+        "Hotline": "Hãy liên hệ với Cơ quan y tế gần nhất tại địa phương hoặc thông báo tới Đường dây nóng của Bộ Y tế về phòng, chống dịch Covid-19 tại:<br> 19009095",
+        "hotline": "Hãy liên hệ với Cơ quan y tế gần nhất tại địa phương hoặc thông báo tới Đường dây nóng của Bộ Y tế về phòng, chống dịch Covid-19 tại:<br> 19009095"
+    
+	}        
+    ]
+}
